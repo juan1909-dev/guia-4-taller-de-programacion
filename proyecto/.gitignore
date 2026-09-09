@@ -1,8 +1,7 @@
 # Ignorar la carpeta de logs y todo su contenido
-logs/
-*.log
-
+.logs
+.log
 # Entorno virtual de Python
 __pycache__/
 .env
-venv/
+.venv
