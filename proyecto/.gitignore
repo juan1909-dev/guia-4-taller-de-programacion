@@ -1,7 +1,13 @@
-# Ignorar la carpeta de logs y todo su contenido
-.logs
-.log
-# Entorno virtual de Python
+# Entorno virtual
+.venv/
+venv/
+ENV/
+
+# Archivos de caché de Python
 __pycache__/
-.env
-.venv
+*.py[cod]
+*$py.class
+
+# Logs y registros de ejecución de la aplicación
+logs/
+*.log

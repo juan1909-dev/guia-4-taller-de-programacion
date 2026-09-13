@@ -1,0 +1,10 @@
+2026-09-12 23:42:20 INFO METRICA Ruta: / | Metodo: GET | Duracion: 0.0002s | Status: 404
+2026-09-12 23:42:20 INFO METRICA Ruta: /favicon.ico | Metodo: GET | Duracion: 0.0003s | Status: 404
+2026-09-12 23:42:36 INFO METRICA Ruta: / | Metodo: GET | Duracion: 0.0003s | Status: 404
+2026-09-12 23:42:36 INFO METRICA Ruta: /favicon.ico | Metodo: GET | Duracion: 0.0002s | Status: 404
+2026-09-12 23:43:31 INFO METRICA Ruta: /docs | Metodo: GET | Duracion: 0.0004s | Status: 200
+2026-09-12 23:43:31 INFO METRICA Ruta: /openapi.json | Metodo: GET | Duracion: 0.0055s | Status: 200
+2026-09-12 23:43:41 INFO GET /metrics - Consulta de métricas del sistema
+2026-09-12 23:43:41 INFO METRICA Ruta: /metrics | Metodo: GET | Duracion: 0.0024s | Status: 200
+2026-09-12 23:44:09 INFO GET /metrics - Consulta de métricas del sistema
+2026-09-12 23:44:09 INFO METRICA Ruta: /metrics | Metodo: GET | Duracion: 0.0008s | Status: 200
